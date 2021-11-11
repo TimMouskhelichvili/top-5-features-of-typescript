@@ -1,10 +1,8 @@
 # Top 5 features of TypeScript 2021 - TypeScript vs JavaScript.
 
-The source code of the youtube video.
+The source code of my [youtube video](https://youtu.be/ENznouAq-JI).
 
 Links:
-
-[Youtube Video](https://youtu.be/ENznouAq-JI)
 
 [LinkedIn](https://www.linkedin.com/in/tim-mouskhelichvili/)
 
